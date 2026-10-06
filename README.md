@@ -20,6 +20,22 @@ Desenvolvo projetos com foco em APIs, autenticação e etc. Meus repositórios r
 
 Aqui você encontra projetos de estudo e aplicações práticas para gerenciamento de estoque, organização de tarefas e agendamento de consultas.
 
+## Projetos colaborativos
+
+### E-commerce — Next Solve Studio
+
+Participação no desenvolvimento de uma aplicação de e-commerce
+em equipe, com contribuições para autenticação de usuários,
+funcionalidades de favoritos e integração da persistência
+com Prisma e PostgreSQL no Neon.
+
+**Tecnologias:** Next.js, React, TypeScript, Prisma,
+PostgreSQL e NextAuth.
+
+[Ver projeto](https://github.com/Next-Solve-Studio/projeto-ecommerce/tree/devlopment)
+
+[Ver meus commits](https://github.com/Next-Solve-Studio/projeto-ecommerce/commits/devlopment/?author=JoaoGui1430)
+
 ## Projetos em destaque
 
 ### 01 · Gerenciamento de estoque
