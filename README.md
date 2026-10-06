@@ -2,7 +2,7 @@
 
 # João Guilherme Gadelha
 
-### Desenvolvimento Back-end · APIs REST · Aplicações Web
+### Desenvolvimento de Software · APIs REST · Aplicações Web
 
 Java & Spring Boot · Node.js & TypeScript · Python & Flask
 
@@ -16,7 +16,7 @@ Fortaleza, Ceará — Brasil
 
 ## Sobre mim
 
-Desenvolvo projetos de back-end com foco em APIs, autenticação e persistência de dados. Meus repositórios reúnem aplicações com Java e Spring Boot, Node.js e Python, além de interfaces em React e TypeScript para integrar a experiência do usuário aos serviços da aplicação.
+Desenvolvo projetos com foco em APIs, autenticação e etc. Meus repositórios reúnem aplicações com Java e Spring Boot, Node.js e Python, além de interfaces em React e TypeScript para integrar a experiência do usuário aos serviços da aplicação.
 
 Aqui você encontra projetos de estudo e aplicações práticas para gerenciamento de estoque, organização de tarefas e agendamento de consultas.
 
